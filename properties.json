@@ -1,0 +1,25 @@
+{
+    "relays":{
+        "relayOne":{
+            "pin": 1,
+            "type": "nc"
+        },
+        "relayTwo":{
+            "pin": 1,
+            "type": "nc"
+        },
+        "relayThree":{
+            "pin": 1,
+            "type": "nc"
+        },
+        "relayFour":{
+            "pin": 1,
+            "type": "nc"
+        },
+    },
+    "thermometer": {
+        "type":"DS18B20"
+        "pin":5
+    }
+        
+}

@@ -28,3 +28,6 @@ bower_components
 # OS metadata
 .DS_Store
 Thumbs.db
+
+#c9 stuff
+.c9
